@@ -1,0 +1,19 @@
+Somnath Sevashram
+------------------
+
+
+Invoice for order => 7c598f87-d5b1-42ff-abda-b3a504b6f4461538314164
+
+Date =>  30-09-2018
+
+Client name => Shreyansh
+
+Order Summary
+
+-------------
+
+Industrial Gloves    150
+
+------------------------
+
+Total                150

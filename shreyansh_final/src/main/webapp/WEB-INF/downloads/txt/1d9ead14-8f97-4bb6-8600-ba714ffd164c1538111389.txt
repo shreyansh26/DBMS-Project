@@ -1,0 +1,10 @@
+Somnath Sevashram
+---------------------------
+
+
+Invoice for order => 1d9ead14-8f97-4bb6-8600-ba714ffd164c1538111389
+
+Industrial Aprons    750
+Industrial Gloves    400
+--------------------------------
+Total                     1150

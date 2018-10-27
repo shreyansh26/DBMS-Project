@@ -1,0 +1,22 @@
+Somnath Sevashram
+------------------
+
+
+Invoice for order => ef16039f-cd11-454e-983d-9f84aee5ec7f1538222083
+
+Date =>  29-09-2018
+
+Client name => Shreyansh
+
+Order Summary
+
+-------------
+
+Industrial Aprons    400
+
+
+Industrial Gloves    500
+
+------------------------
+
+Total                900

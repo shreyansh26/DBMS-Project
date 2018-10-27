@@ -1,0 +1,14 @@
+Somnath Sevashram
+---------------------------
+
+
+Invoice for order => 06bd146b-a1c3-4b8b-baa3-960107c8ca761538118928
+Date =>  28-09-2018 12:45:28
+
+Client name => Shreyansh
+
+Order Summary
+
+Industrial Aprons    1000
+--------------------------------
+Total                     1000
