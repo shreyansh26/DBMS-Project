@@ -32,4 +32,6 @@ The features include -
 * Edit profile
 * View Attendance
 
-The WAR file can be run on a Tomcat server.
+The WAR file can be deployed on a Tomcat server.
+
+The webapp is already deployed at [Somnath Sevashram](https://somnathsevashram.herokuapp.com/)
