@@ -34,7 +34,7 @@ The features include -
 
 ### Supplier
 * Registration
-* Details of raw Materials that can be suppied
+* Details of raw materials that can be suppied
 
 The WAR file can be deployed on a Tomcat server.
 
