@@ -32,6 +32,10 @@ The features include -
 * Edit profile
 * View Attendance
 
+### Supplier
+* Registration
+* Details of raw Materials that can be suppied
+
 The WAR file can be deployed on a Tomcat server.
 
-The webapp is already deployed at [Somnath Sevashram](https://somnathsevashram.herokuapp.com/)
+The webapp is deployed at [Somnath Sevashram](https://somnathsevashram.herokuapp.com/).
